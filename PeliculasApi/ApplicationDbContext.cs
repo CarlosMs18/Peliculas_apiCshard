@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using PeliculasApi.Entity;
 
 namespace PeliculasApi
 {
@@ -9,5 +10,7 @@ namespace PeliculasApi
         }
 
         public DbSet<Genero> Generos { get; set; }
+
+        public DbSet<Actor> Actores { get; set; }
     }
 }
