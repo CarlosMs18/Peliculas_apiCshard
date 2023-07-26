@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using PeliculasApi.Servicios;
 
 namespace PeliculasApi
 {
@@ -15,10 +16,16 @@ namespace PeliculasApi
         {
             services.AddAutoMapper(typeof(Startup));
 
+
+            services.AddTransient<IAlmacenadorArchivos, AlmacenadorArchivosLocal>();
+            services.AddHttpContextAccessor();
+
+
             services.AddDbContext<ApplicationDbContext>(options => options
             .UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddControllers();
+            services.AddControllers()
+                .AddNewtonsoftJson();
           
         }
 
@@ -28,7 +35,11 @@ namespace PeliculasApi
                 app.UseDeveloperExceptionPage();    
             }
 
+         
+
             app.UseHttpsRedirection();
+
+            app.UseStaticFiles();
 
             app.UseRouting();
 

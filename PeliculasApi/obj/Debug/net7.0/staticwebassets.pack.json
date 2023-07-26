@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Tinnova1\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\d52c7e2a-fc48-4227-8644-c5421bca1408.jpg",
+      "PackagePath": "staticwebassets\\actores\\d52c7e2a-fc48-4227-8644-c5421bca1408.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tinnova1\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\f4354a29-c281-4265-b4ad-cc84a95a83cc.jpg",
+      "PackagePath": "staticwebassets\\actores\\f4354a29-c281-4265-b4ad-cc84a95a83cc.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PeliculasApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.PeliculasApi.props",
+      "PackagePath": "build\\PeliculasApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.PeliculasApi.props",
+      "PackagePath": "buildMultiTargeting\\PeliculasApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.PeliculasApi.props",
+      "PackagePath": "buildTransitive\\PeliculasApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

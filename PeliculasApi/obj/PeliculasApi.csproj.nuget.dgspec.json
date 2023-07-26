@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj": {}
+    "C:\\Users\\Tinnova1\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj": {
+    "C:\\Users\\Tinnova1\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj",
+        "projectUniqueName": "C:\\Users\\Tinnova1\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj",
         "projectName": "PeliculasApi",
-        "projectPath": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj",
-        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\obj\\",
+        "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj",
+        "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tinnova1\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tinnova1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +27,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,6 +50,14 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -75,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
