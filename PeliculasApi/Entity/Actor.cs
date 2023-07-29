@@ -13,5 +13,8 @@ namespace PeliculasApi.Entity
         [PesoArchivoValidacion(PesoMaximoEnMegabBytes: 4)]
         [TipoArchivoValidacion(grupoTipoArchivo: GrupoTipoArchivo.Imagen)]
         public string Foto { get; set; }
+
+        public List<PeliculasActores> PeliculasActores { get; set; }
+
     }
 }

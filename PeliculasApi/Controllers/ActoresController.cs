@@ -35,7 +35,8 @@ namespace PeliculasApi.Controllers
         [HttpGet]
         public async Task<ActionResult<List<ActorDTO>>> Get([FromQuery] PaginacionDTO paginacionDTO)
         {
-            var queryable = context.Actores.AsQueryable();
+            
+            var queryable =  context.Actores.AsQueryable();//metodo queryable que le pasaremos al metodo de extension
             await HttpContext.InsertarParametrosPaginacion(queryable, paginacionDTO.CantidadRegistrosPorPagina);
 
             var entidades = await queryable.Paginar(paginacionDTO).ToListAsync();

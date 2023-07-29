@@ -1,12 +1,36 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Tinnova1\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\d52c7e2a-fc48-4227-8644-c5421bca1408.jpg",
+      "Id": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\27cc8821-71c9-425d-bf4b-d326ed74e98e.jpg",
+      "PackagePath": "staticwebassets\\actores\\27cc8821-71c9-425d-bf4b-d326ed74e98e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\ae4dfc85-fdc4-4a06-8376-1ce6e689a55d.jpg",
+      "PackagePath": "staticwebassets\\actores\\ae4dfc85-fdc4-4a06-8376-1ce6e689a55d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\d52c7e2a-fc48-4227-8644-c5421bca1408.jpg",
       "PackagePath": "staticwebassets\\actores\\d52c7e2a-fc48-4227-8644-c5421bca1408.jpg"
     },
     {
-      "Id": "C:\\Users\\Tinnova1\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\f4354a29-c281-4265-b4ad-cc84a95a83cc.jpg",
+      "Id": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\df0c4a8e-688e-462d-94aa-b5671b9d21f6.jpg",
+      "PackagePath": "staticwebassets\\actores\\df0c4a8e-688e-462d-94aa-b5671b9d21f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\e33ad672-018c-4a57-a522-bd895d7b75eb.jpg",
+      "PackagePath": "staticwebassets\\actores\\e33ad672-018c-4a57-a522-bd895d7b75eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\f4354a29-c281-4265-b4ad-cc84a95a83cc.jpg",
       "PackagePath": "staticwebassets\\actores\\f4354a29-c281-4265-b4ad-cc84a95a83cc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\peliculas\\259e20bf-a233-40cb-b9ca-c908466137ed.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\259e20bf-a233-40cb-b9ca-c908466137ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\peliculas\\96f7d61b-36a4-4d9c-b4be-c0faa75e9e37.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\96f7d61b-36a4-4d9c-b4be-c0faa75e9e37.jpg"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PeliculasApi.Microsoft.AspNetCore.StaticWebAssets.props",
