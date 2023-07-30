@@ -2,14 +2,13 @@
 
 namespace PeliculasApi.Entity
 {
-    public class Genero : IId
+    public class SalaDeCine : IId
     {
         public int Id { get; set; }
-
         [Required]
-        [StringLength(40)]
+        [StringLength(120)]
         public string Nombre { get; set; }
 
-        public List<PeliculasGeneros> PeliculasGeneros { get; set; }
+        public List<PeliculasSalasDeCine> PeliculasSalasDeCines { get; set; }
     }
 }

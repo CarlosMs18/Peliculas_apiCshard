@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Nmiby0kueVEWdJrCK9ieWC93Wch1OR7HBMDepbor9Ys=",
+  "Hash": "zFA7o0zxfeGGanUi2E54CFxjEM9MwPJJhk2fqf1JAmY=",
   "Source": "PeliculasApi",
   "BasePath": "_content/PeliculasApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PeliculasApi\\wwwroot",
       "Source": "PeliculasApi",
-      "ContentRoot": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
       "BasePath": "_content/PeliculasApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\27cc8821-71c9-425d-bf4b-d326ed74e98e.jpg",
+      "Identity": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\27cc8821-71c9-425d-bf4b-d326ed74e98e.jpg",
       "SourceId": "PeliculasApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
       "BasePath": "_content/PeliculasApi",
       "RelativePath": "actores/27cc8821-71c9-425d-bf4b-d326ed74e98e.jpg",
       "AssetKind": "All",
@@ -34,10 +34,27 @@
       "OriginalItemSpec": "wwwroot\\actores\\27cc8821-71c9-425d-bf4b-d326ed74e98e.jpg"
     },
     {
-      "Identity": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\ae4dfc85-fdc4-4a06-8376-1ce6e689a55d.jpg",
+      "Identity": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\9c0953e5-2e4b-4e87-8919-ee96c6f06966.JPG",
       "SourceId": "PeliculasApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
+      "BasePath": "_content/PeliculasApi",
+      "RelativePath": "actores/9c0953e5-2e4b-4e87-8919-ee96c6f06966.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\9c0953e5-2e4b-4e87-8919-ee96c6f06966.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\ae4dfc85-fdc4-4a06-8376-1ce6e689a55d.jpg",
+      "SourceId": "PeliculasApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
       "BasePath": "_content/PeliculasApi",
       "RelativePath": "actores/ae4dfc85-fdc4-4a06-8376-1ce6e689a55d.jpg",
       "AssetKind": "All",
@@ -51,10 +68,27 @@
       "OriginalItemSpec": "wwwroot\\actores\\ae4dfc85-fdc4-4a06-8376-1ce6e689a55d.jpg"
     },
     {
-      "Identity": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\d52c7e2a-fc48-4227-8644-c5421bca1408.jpg",
+      "Identity": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\ba80ce52-3dfc-4e10-b37d-8f80f0272452.JPG",
       "SourceId": "PeliculasApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
+      "BasePath": "_content/PeliculasApi",
+      "RelativePath": "actores/ba80ce52-3dfc-4e10-b37d-8f80f0272452.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\ba80ce52-3dfc-4e10-b37d-8f80f0272452.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\d52c7e2a-fc48-4227-8644-c5421bca1408.jpg",
+      "SourceId": "PeliculasApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
       "BasePath": "_content/PeliculasApi",
       "RelativePath": "actores/d52c7e2a-fc48-4227-8644-c5421bca1408.jpg",
       "AssetKind": "All",
@@ -68,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\actores\\d52c7e2a-fc48-4227-8644-c5421bca1408.jpg"
     },
     {
-      "Identity": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\df0c4a8e-688e-462d-94aa-b5671b9d21f6.jpg",
+      "Identity": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\df0c4a8e-688e-462d-94aa-b5671b9d21f6.jpg",
       "SourceId": "PeliculasApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
       "BasePath": "_content/PeliculasApi",
       "RelativePath": "actores/df0c4a8e-688e-462d-94aa-b5671b9d21f6.jpg",
       "AssetKind": "All",
@@ -85,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\actores\\df0c4a8e-688e-462d-94aa-b5671b9d21f6.jpg"
     },
     {
-      "Identity": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\e33ad672-018c-4a57-a522-bd895d7b75eb.jpg",
+      "Identity": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\e33ad672-018c-4a57-a522-bd895d7b75eb.jpg",
       "SourceId": "PeliculasApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
       "BasePath": "_content/PeliculasApi",
       "RelativePath": "actores/e33ad672-018c-4a57-a522-bd895d7b75eb.jpg",
       "AssetKind": "All",
@@ -102,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\actores\\e33ad672-018c-4a57-a522-bd895d7b75eb.jpg"
     },
     {
-      "Identity": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\f4354a29-c281-4265-b4ad-cc84a95a83cc.jpg",
+      "Identity": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\f4354a29-c281-4265-b4ad-cc84a95a83cc.jpg",
       "SourceId": "PeliculasApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
       "BasePath": "_content/PeliculasApi",
       "RelativePath": "actores/f4354a29-c281-4265-b4ad-cc84a95a83cc.jpg",
       "AssetKind": "All",
@@ -119,10 +153,27 @@
       "OriginalItemSpec": "wwwroot\\actores\\f4354a29-c281-4265-b4ad-cc84a95a83cc.jpg"
     },
     {
-      "Identity": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\peliculas\\259e20bf-a233-40cb-b9ca-c908466137ed.jpg",
+      "Identity": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\actores\\fbeeab61-cfaa-4de2-ac1b-3168bd45575f.JPG",
       "SourceId": "PeliculasApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
+      "BasePath": "_content/PeliculasApi",
+      "RelativePath": "actores/fbeeab61-cfaa-4de2-ac1b-3168bd45575f.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\fbeeab61-cfaa-4de2-ac1b-3168bd45575f.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\peliculas\\259e20bf-a233-40cb-b9ca-c908466137ed.jpg",
+      "SourceId": "PeliculasApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
       "BasePath": "_content/PeliculasApi",
       "RelativePath": "peliculas/259e20bf-a233-40cb-b9ca-c908466137ed.jpg",
       "AssetKind": "All",
@@ -136,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\peliculas\\259e20bf-a233-40cb-b9ca-c908466137ed.jpg"
     },
     {
-      "Identity": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\peliculas\\96f7d61b-36a4-4d9c-b4be-c0faa75e9e37.jpg",
+      "Identity": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\peliculas\\96f7d61b-36a4-4d9c-b4be-c0faa75e9e37.jpg",
       "SourceId": "PeliculasApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\wwwroot\\",
       "BasePath": "_content/PeliculasApi",
       "RelativePath": "peliculas/96f7d61b-36a4-4d9c-b4be-c0faa75e9e37.jpg",
       "AssetKind": "All",

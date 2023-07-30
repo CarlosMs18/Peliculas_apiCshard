@@ -12,7 +12,7 @@ using PeliculasApi;
 namespace PeliculasApi.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230729001054_Inicial")]
+    [Migration("20230729201106_Inicial")]
     partial class Inicial
     {
         /// <inheritdoc />

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj": {}
+    "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj": {
+    "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj",
+        "projectUniqueName": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj",
         "projectName": "PeliculasApi",
-        "projectPath": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\source\\repos\\Peliculas_apiCshard\\PeliculasApi\\obj\\",
+        "projectPath": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\PeliculasApi.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jazmi\\Source\\Repos\\Peliculas_apiCshard\\PeliculasApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,6 +62,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.9, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.3.3, )"
             }
           },
           "imports": [

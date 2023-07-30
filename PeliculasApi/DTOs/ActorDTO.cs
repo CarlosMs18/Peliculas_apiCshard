@@ -1,8 +1,9 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using PeliculasApi.Entity;
+using System.ComponentModel.DataAnnotations;
 
 namespace PeliculasApi.DTOs
 {
-    public class ActorDTO
+    public class ActorDTO 
     {
         public int Id { get; set; }
         [Required]

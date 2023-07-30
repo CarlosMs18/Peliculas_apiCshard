@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using PeliculasApi.Entity;
+using System.ComponentModel.DataAnnotations;
 
 namespace PeliculasApi.DTOs
 {
